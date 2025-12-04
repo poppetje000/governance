@@ -1,16 +1,4 @@
-# Project Jupyter Governance
-
-The purpose of this repository is to formalize the governance process for Project Jupyter. The governance documents are best viewed at https://jupyter.org/governance. They may also be built from the files in this repository by following the instructions below.
-
-## License of Governance Documents
-
-See [the governance introduction](intro.md) for license information.
-
-## Infrastructure for this repository
-
-The content in this repository is hosted online with `github-pages`, and the HTML
-files are built with [MyST](https://mystmd.org). To build and preview
-these documents locally, you can use [nox](https://nox.thea.codes):
+se [nox](https://nox.thea.codes):
 
 ```bash
 # Build the documentation
